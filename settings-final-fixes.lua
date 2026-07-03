@@ -1,0 +1,11 @@
+local Settings = require("__cf-lib__.settings.Settings")
+
+Settings.force("mdrn-use-electricity", false)
+Settings.forceDefault("mdrn-oplp")
+Settings.force("mdrn-chute-mode", "none")
+Settings.forceDefault("mdrn-chute-direction")
+Settings.force("mdrn-unlock-technology", "belt")
+Settings.force("mdrn-double-recipe", true)
+Settings.forceDefault("mdrn-enable-stacking")
+Settings.forceDefault("mdrn-cheap-stacking")
+Settings.default("mdrn-embiggen-assemblers", "sixteen")

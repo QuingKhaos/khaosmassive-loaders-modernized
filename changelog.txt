@@ -1,3 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-03
+  Compatibility:
+    - Include loader modernized and integrations mods as dependencies.
+  Changes:
+    - Change order of wood loader to appear first in the recipe list.
+    - Fix ingredients of wood loader and loader recipes.
